@@ -1,0 +1,16 @@
+.stats {
+  margin: 0.5rem 0;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.statsEmpty {
+  margin: 0.5rem 0;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.count {
+  font-weight: bold;
+  color: #2c3e50;
+}

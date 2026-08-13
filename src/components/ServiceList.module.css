@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.emptyState {
+  text-align: center;
+  color: #6c757d;
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border: 2px dashed #dee2e6;
+}
+
+.emptyStateIcon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
